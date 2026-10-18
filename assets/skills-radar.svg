@@ -1,0 +1,37 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="470" viewBox="0 0 700 470">
+  <rect width="700" height="470" rx="18" fill="#100d1c"/>
+  <rect x="1" y="1" width="698" height="468" rx="17" fill="none" stroke="#49336d"/>
+  <text x="28" y="38" fill="#c4b5fd" font-family="monospace" font-size="19" font-weight="bold">SKILL RADAR</text>
+  <text x="28" y="60" fill="#8b7aa8" font-family="monospace" font-size="11">CURRENT LEARNING MAP / 2026</text>
+  <g stroke="#49336d" stroke-width="1" fill="none">
+    <polygon points="350,110 445,179 409,291 291,291 255,179"/>
+    <polygon points="350,140 416,188 391,266 309,266 284,188"/>
+    <polygon points="350,170 388,197 373,242 327,242 312,197"/>
+    <polygon points="350,200 359,206 355,217 345,217 341,206"/>
+    <path d="M350 110 V230 M445 179 L350 230 M409 291 L350 230 M291 291 L350 230 M255 179 L350 230"/>
+  </g>
+  <polygon points="350,140 407,189 382,267 316,267 293,189" fill="#a78bfa" fill-opacity="0.22" stroke="#c4b5fd" stroke-width="2.5"/>
+  <g fill="#e9d5ff" stroke="#a78bfa" stroke-width="2">
+    <circle cx="350" cy="140" r="4"/>
+    <circle cx="407" cy="189" r="4"/>
+    <circle cx="382" cy="267" r="4"/>
+    <circle cx="316" cy="267" r="4"/>
+    <circle cx="293" cy="189" r="4"/>
+  </g>
+  <g fill="#ddd6fe" font-family="monospace" font-size="12">
+    <text x="350" y="91" text-anchor="middle">GRC</text>
+    <text x="463" y="176">Forensics</text>
+    <text x="418" y="313">Python</text>
+    <text x="230" y="313">Linux</text>
+    <text x="166" y="176">Networking</text>
+  </g>
+  <g fill="#8b7aa8" font-family="monospace" font-size="10">
+    <text x="28" y="386">FOCUS AREAS</text>
+    <text x="28" y="407">01 / Governance, Risk &amp; Compliance</text>
+    <text x="28" y="426">02 / Digital Forensics &amp; Investigation</text>
+    <text x="365" y="407">03 / Python &amp; Automation</text>
+    <text x="365" y="426">04 / Linux &amp; Networking</text>
+    <text x="28" y="451" fill="#a78bfa">LEARN  /  BUILD  /  VALIDATE  /  REPEAT</text>
+  </g>
+</svg>
