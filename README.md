@@ -61,6 +61,14 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
   <img src="assets/skills-radar.svg" alt="Cybersecurity learning map" width="85%" />
 </p>
 
+
+<h2 align="center">⌁ Live Terminal</h2>
+
+<p align="center">
+  <img src="assets/animated-terminal.svg" width="100%" alt="Animated cybersecurity terminal" />
+</p>
+
+
 <h2 align="center">⌁ GitHub Telemetry</h2>
 
 <p align="center">
