@@ -1,0 +1,71 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#080e1c"/>
+      <stop offset="1" stop-color="#15102a"/>
+    </linearGradient>
+    <style>
+      text { font-family: monospace; }
+      .cyan { fill: #4deaff; }
+      .purple { fill: #c4a1ff; }
+      .muted { fill: #8294ba; }
+      .line { stroke: #273957; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; }
+      .scan { animation: scan 4s linear infinite; }
+      .cursor { animation: blink 1s steps(2) infinite; }
+      @keyframes pulse { 50% { opacity: .35; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes scan {
+        from { transform: translateY(0); }
+        to { transform: translateY(210px); }
+      }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="996" height="356" rx="14" fill="url(#bg)" stroke="#6554a5"/>
+  <path d="M2 44 H998" class="line" fill="none"/>
+  <circle cx="25" cy="23" r="5" fill="#ff6475"/>
+  <circle cx="43" cy="23" r="5" fill="#ffd15c"/>
+  <circle cx="61" cy="23" r="5" fill="#39e89a"/>
+  <text x="500" y="28" text-anchor="middle" class="purple" font-size="15">profile.sh --live</text>
+
+  <rect x="18" y="58" width="340" height="282" rx="8" fill="#0c1528" stroke="#273957"/>
+  <text x="34" y="82" class="cyan" font-size="14" font-weight="bold">VISUAL.MAP</text>
+  <path d="M30 94 H346" class="line"/>
+  <g stroke="#293c5d" stroke-width=".7" opacity=".65">
+    <path d="M30 120 H346 M30 150 H346 M30 180 H346 M30 210 H346 M30 240 H346 M30 270 H346 M30 300 H346"/>
+    <path d="M60 100 V325 M90 100 V325 M120 100 V325 M150 100 V325 M180 100 V325 M210 100 V325 M240 100 V325 M270 100 V325 M300 100 V325 M330 100 V325"/>
+  </g>
+  <text x="188" y="160" text-anchor="middle" class="purple" font-size="20">[ A.RK ]</text>
+  <text x="188" y="191" text-anchor="middle" class="cyan" font-size="12">CYBERLAB.OPERATOR</text>
+  <text x="188" y="218" text-anchor="middle" class="muted" font-size="11">SCAN // ANALYZE</text>
+  <text x="188" y="238" text-anchor="middle" class="muted" font-size="11">INVESTIGATE // VALIDATE</text>
+  <rect x="29" y="102" width="318" height="3" fill="#4deaff" opacity=".55" class="scan"/>
+
+  <rect x="374" y="58" width="608" height="282" rx="8" fill="#0c1528" stroke="#273957"/>
+  <text x="392" y="82" class="cyan" font-size="14" font-weight="bold">SYSTEM.INFO</text>
+  <circle cx="904" cy="77" r="5" fill="#c4a1ff" class="pulse"/>
+  <text x="918" y="82" class="purple" font-size="12">LIVE</text>
+  <path d="M390 94 H966" class="line"/>
+
+  <g font-size="13">
+    <text x="394" y="121" class="muted">Subject</text>
+    <text x="954" y="121" text-anchor="end" fill="#eee7ff">Aditi RK</text>
+    <text x="394" y="151" class="muted">Focus</text>
+    <text x="954" y="151" text-anchor="end" fill="#eee7ff">Digital Forensics · GRC · Purple Team</text>
+    <text x="394" y="181" class="muted">Toolchain</text>
+    <text x="954" y="181" text-anchor="end" fill="#eee7ff">Kali · Autopsy · FTK Imager</text>
+    <text x="394" y="211" class="muted">Core.Lang</text>
+    <text x="954" y="211" text-anchor="end" fill="#eee7ff">Python · C · C++</text>
+    <text x="394" y="241" class="muted">Frameworks</text>
+    <text x="954" y="241" text-anchor="end" fill="#eee7ff">NIST CSF 2.0 · CIS Controls v8.1</text>
+    <text x="394" y="271" class="muted">Status</text>
+    <text x="954" y="271" text-anchor="end" class="cyan">BUILDING + LEARNING + VALIDATING</text>
+  </g>
+  <path d="M392 294 H964" class="line"/>
+  <circle cx="402" cy="316" r="5" fill="#39e89a" class="pulse"/>
+  <text x="416" y="320" fill="#39e89a" font-size="12">ALL SYSTEMS NOMINAL</text>
+  <text x="956" y="320" text-anchor="end" class="purple" font-size="12">READY</text>
+  <rect x="965" y="308" width="7" height="15" fill="#4deaff" class="cursor"/>
+</svg>
