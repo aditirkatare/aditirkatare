@@ -124,6 +124,37 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
 </p>
 
 
+<h2 align="center">⌁ TOOLKIT &amp; FRAMEWORKS</h2>
+
+<p align="center"><strong>LANGUAGES</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning" />
+  <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C learning" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ learning" />
+</p>
+
+<p align="center"><strong>SECURITY &amp; INVESTIGATION</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux learning" />
+  <img src="https://img.shields.io/badge/Autopsy-Forensics-6B46C1?style=for-the-badge" alt="Autopsy digital forensics" />
+  <img src="https://img.shields.io/badge/FTK_Imager-Forensics-6B46C1?style=for-the-badge" alt="FTK Imager forensics" />
+</p>
+
+<p align="center"><strong>GOVERNANCE &amp; RISK</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NIST_CSF-2.0-7C3AED?style=for-the-badge" alt="NIST Cybersecurity Framework 2.0" />
+  <img src="https://img.shields.io/badge/CIS_Controls-v8.1-7C3AED?style=for-the-badge" alt="CIS Controls version 8.1" />
+  <img src="https://img.shields.io/badge/SOC_2-Mapping-7C3AED?style=for-the-badge" alt="SOC 2 mapping" />
+</p>
+
+<p align="center"><strong>DEVELOPMENT &amp; RESEARCH</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn machine learning" />
+  <img src="https://img.shields.io/badge/Linux-Foundations-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux foundations" />
+</p>
+
+
 <h2 align="center">⌁ GitHub Telemetry</h2>
 
 <p align="center">
@@ -135,6 +166,22 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
   <img width="70%" src="https://streak-stats.demolab.com?user=aditirkatare&hide_border=true&background=100d1c&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff&sideLabels=c4b5fd&dates=8b7aa8&currStreakNum=e9d5ff&sideNums=e9d5ff" alt="GitHub contribution streak" />
 </p>
 
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=END+OF+SESSION+%2F%2F+KEEP+INVESTIGATING;Evidence+over+assumptions.;Build.+Test.+Validate.+Repeat."
+    alt="Animated cybersecurity closing message"
+  />
+</p>
+
+<p align="center">
+  <code>ADITI RK</code> · <code>CYBERSECURITY</code> · <code>CONTINUOUS LEARNING</code>
+</p>
+
+<p align="center">
+  <sub>Curiosity starts the investigation. Evidence finishes it.</sub>
+</p>
+```
 
 `Build carefully. Verify evidence. Document everything.`
 
