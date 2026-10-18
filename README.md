@@ -113,6 +113,16 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
 
 <p align="center"><code>END OF REGISTRY // EVIDENCE OVER ASSUMPTIONS</code></p>
 
+<h2 align="center">⌁ CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditirkatare&bg_color=100d1c&color=c4b5fd&line=a78bfa&point=e9d5ff&area=true&hide_border=true&custom_title=Cyberlab%20Activity"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
 
 <h2 align="center">⌁ GitHub Telemetry</h2>
 
