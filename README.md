@@ -7,6 +7,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/aditirkatare)
 
 </div>
+<p align="center">
+  <img src="assets/profile-dashboard.svg"
+       alt="Aditi RK's animated cybersecurity profile dashboard"
+       width="100%" />
+</p>
 
 <p align="center">
   <img src="assets/terminal.svg" alt="Aditi's cybersecurity terminal banner" width="100%" />
