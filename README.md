@@ -68,6 +68,12 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
   <img src="assets/animated-terminal.svg" width="100%" alt="Animated cybersecurity terminal" />
 </p>
 
+<h2 align="center">⌁ Cyberlab Console</h2>
+
+<p align="center">
+  <img src="assets/cyberlab-console.svg" width="100%" alt="Cyberlab operator console" />
+</p>
+
 
 <h2 align="center">⌁ GitHub Telemetry</h2>
 
