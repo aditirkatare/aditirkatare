@@ -8,6 +8,8 @@
 
 </div>
 
+<img src="assets/terminal.svg" alt="Aditi's cybersecurity terminal banner" width="100%" />
+
 ---
 
 ## `whoami`
@@ -55,7 +57,9 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
 
 <div align="center">
 
-<img src="assets/terminal.svg" alt="Aditi's cybersecurity terminal banner" width="100%" />
+<p align="center">
+  <img src="assets/skills-radar.svg" alt="Cybersecurity learning map" width="85%" />
+</p>
 
 
 `Build carefully. Verify evidence. Document everything.`
