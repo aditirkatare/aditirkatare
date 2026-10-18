@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Aditi+RK+%7C+Cybersecurity;Digital+Forensics+%7C+GRC;Building.+Testing.+Investigating." alt="Animated introduction" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aditi-rajendra-katare-180735362)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-rajendra-katare-180735362)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-171717?style=for-the-badge&logo=github)](https://github.com/aditirkatare)
 
 </div>
