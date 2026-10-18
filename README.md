@@ -61,6 +61,17 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
   <img src="assets/skills-radar.svg" alt="Cybersecurity learning map" width="85%" />
 </p>
 
+<h2 align="center">⌁ GitHub Telemetry</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditirkatare&show_icons=true&hide_border=true&bg_color=100d1c&title_color=c4b5fd&icon_color=a78bfa&text_color=e9d5ff&ring_color=a78bfa" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditirkatare&layout=compact&hide_border=true&bg_color=100d1c&title_color=c4b5fd&text_color=e9d5ff" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=aditirkatare&hide_border=true&background=100d1c&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff&sideLabels=c4b5fd&dates=8b7aa8&currStreakNum=e9d5ff&sideNums=e9d5ff" alt="GitHub contribution streak" />
+</p>
+
 
 `Build carefully. Verify evidence. Document everything.`
 
