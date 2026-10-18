@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c0915"/>
+      <stop offset="100%" stop-color="#1b1230"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="18" y="48" width="964" height="364" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1000" height="430" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="428" rx="15" fill="none" stroke="#6d4caa"/>
+
+  <rect x="1" y="1" width="998" height="42" rx="15" fill="#211735"/>
+  <rect x="1" y="27" width="998" height="16" fill="#211735"/>
+
+  <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="68" cy="22" r="6" fill="#28c840"/>
+  <text x="500" y="27" fill="#c4b5fd" font-family="monospace" font-size="13" text-anchor="middle">CYBERLAB :: OPERATOR CONSOLE</text>
+
+  <g clip-path="url(#screen)" font-family="monospace" font-size="15">
+    <text x="28" y="76" fill="#a78bfa">[SYS]</text>
+    <text x="83" y="76" fill="#e9d5ff">Initializing Aditi's Cyberlab...</text>
+
+    <text x="28" y="106" fill="#86efac">[ OK ]</text>
+    <text x="91" y="106" fill="#d4d4d8">Environment loaded</text>
+
+    <text x="28" y="136" fill="#86efac">[ OK ]</text>
+    <text x="91" y="136" fill="#d4d4d8">Forensic workspace ready</text>
+
+    <text x="28" y="166" fill="#86efac">[ OK ]</text>
+    <text x="91" y="166" fill="#d4d4d8">GRC policy lab ready</text>
+
+    <text x="28" y="196" fill="#86efac">[ OK ]</text>
+    <text x="91" y="196" fill="#d4d4d8">Research pipeline standing by</text>
+
+    <text x="28" y="236" fill="#c4b5fd">$ ls ./projects</text>
+    <text x="28" y="263" fill="#a78bfa">asteroid-hazard-classifier/</text>
+    <text x="350" y="263" fill="#a78bfa">cyberdyne-grc-policy-pack/</text>
+    <text x="28" y="287" fill="#a78bfa">cyberdyne-risk-register/</text>
+
+    <text x="28" y="326" fill="#c4b5fd">$ cat mission.txt</text>
+    <text x="28" y="353" fill="#e9d5ff">Investigate carefully. Validate findings. Document evidence.</text>
+
+    <text x="28" y="391" fill="#a78bfa">$</text>
+    <rect x="48" y="376" width="10" height="19" fill="#c4b5fd">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="972" y="391" fill="#8b7aa8" font-size="11" text-anchor="end">CONSOLE READY</text>
+  </g>
+</svg>
