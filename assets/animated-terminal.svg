@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#100d1c"/>
+      <stop offset="100%" stop-color="#1c1230"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="330" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="328" rx="15" fill="none" stroke="#6d4caa"/>
+  <circle cx="24" cy="24" r="5" fill="#ff5f57"/>
+  <circle cx="43" cy="24" r="5" fill="#febc2e"/>
+  <circle cx="62" cy="24" r="5" fill="#28c840"/>
+  <text x="450" y="28" fill="#a1a1aa" font-family="monospace" font-size="12" text-anchor="middle">aditi@cyberlab: ~/operations</text>
+  <path d="M20 44 H880" stroke="#49336d"/>
+
+  <g font-family="monospace" font-size="15">
+    <text x="28" y="76" fill="#c4b5fd">$ whoami</text>
+    <text x="28" y="98" fill="#e9d5ff">Aditi RK | Cybersecurity Engineer in Progress</text>
+
+    <text x="28" y="133" fill="#c4b5fd">$ ls ./focus-areas</text>
+    <text x="28" y="155" fill="#a78bfa">digital-forensics/</text>
+    <text x="220" y="155" fill="#a78bfa">grc/</text>
+    <text x="280" y="155" fill="#a78bfa">security-research/</text>
+
+    <text x="28" y="190" fill="#c4b5fd">$ python build.py --mode learn</text>
+    <text x="28" y="212" fill="#d4d4d8">[OK] Researching. Testing. Documenting.</text>
+
+    <text x="28" y="247" fill="#c4b5fd">$ git status --short</text>
+    <text x="28" y="269" fill="#86efac">Building the next thing...</text>
+
+    <text x="28" y="305" fill="#a78bfa">EVIDENCE OVER ASSUMPTIONS</text>
+    <rect x="263" y="291" width="9" height="17" fill="#c4b5fd">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="20" y="285" width="860" height="1" fill="#49336d"/>
+  <text x="870" y="305" fill="#8b7aa8" font-family="monospace" font-size="10" text-anchor="end">SESSION: ACTIVE</text>
+</svg>
