@@ -12,12 +12,14 @@
        alt="Aditi RK's animated cybersecurity profile dashboard"
        width="100%" />
 </p>
-<p align="center">
-  <img src="assets/profile-dashboard.svg" alt="Aditi's animated cyberlab dashboard" width="100%" />
-</p>
-<p align="center">
-  <img src="assets/terminal.svg" alt="Aditi's cybersecurity terminal banner" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="34%" valign="middle">
+      <img src="assets/aditi-dotted-portrait.png" width="100%" alt="Aditi's dotted cyberpunk portrait" />
+    </td>
+  
+  </tr>
+</table>
 
 ## `whoami`
 
