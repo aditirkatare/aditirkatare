@@ -55,6 +55,9 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
 
 <div align="center">
 
+<img src="assets/terminal.svg" alt="Aditi's cybersecurity terminal banner" width="100%" />
+
+
 `Build carefully. Verify evidence. Document everything.`
 
 </div>
