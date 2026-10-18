@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
-      <stop stop-color="#080e1c"/>
+      <stop offset="0" stop-color="#080e1c"/>
       <stop offset="1" stop-color="#15102a"/>
     </linearGradient>
     <style>
@@ -18,11 +18,12 @@
       @keyframes blink { 50% { opacity: 0; } }
       @keyframes scan {
         from { transform: translateY(0); }
-        to { transform: translateY(210px); }
+        to { transform: translateY(220px); }
       }
     </style>
   </defs>
 
+  <!-- Terminal frame -->
   <rect x="2" y="2" width="996" height="356" rx="14" fill="url(#bg)" stroke="#6554a5"/>
   <path d="M2 44 H998" class="line" fill="none"/>
   <circle cx="25" cy="23" r="5" fill="#ff6475"/>
@@ -30,19 +31,32 @@
   <circle cx="61" cy="23" r="5" fill="#39e89a"/>
   <text x="500" y="28" text-anchor="middle" class="purple" font-size="15">profile.sh --live</text>
 
+  <!-- Left terminal panel -->
   <rect x="18" y="58" width="340" height="282" rx="8" fill="#0c1528" stroke="#273957"/>
-  <text x="34" y="82" class="cyan" font-size="14" font-weight="bold">VISUAL.MAP</text>
+  <text x="34" y="82" class="cyan" font-size="14" font-weight="bold">CYBERLAB.CONSOLE</text>
   <path d="M30 94 H346" class="line"/>
+
+  <!-- Grid -->
   <g stroke="#293c5d" stroke-width=".7" opacity=".65">
     <path d="M30 120 H346 M30 150 H346 M30 180 H346 M30 210 H346 M30 240 H346 M30 270 H346 M30 300 H346"/>
     <path d="M60 100 V325 M90 100 V325 M120 100 V325 M150 100 V325 M180 100 V325 M210 100 V325 M240 100 V325 M270 100 V325 M300 100 V325 M330 100 V325"/>
   </g>
-  
-  <text x="188" y="191" text-anchor="middle" class="cyan" font-size="12">CYBERLAB.OPERATOR</text>
-  <text x="188" y="218" text-anchor="middle" class="muted" font-size="11">SCAN // ANALYZE</text>
-  <text x="188" y="238" text-anchor="middle" class="muted" font-size="11">INVESTIGATE // VALIDATE</text>
-  <rect x="29" y="102" width="318" height="3" fill="#4deaff" opacity=".55" class="scan"/>
 
+  <!-- Console identity -->
+  <text x="40" y="132" class="muted" font-size="12">$ whoami</text>
+  <text x="40" y="159" class="cyan" font-size="17" font-weight="bold">ADITI.RK</text>
+  <text x="40" y="187" class="purple" font-size="12">CYBERLAB.OPERATOR</text>
+  <text x="40" y="222" class="muted" font-size="11">[01] SCAN</text>
+  <text x="40" y="242" class="muted" font-size="11">[02] ANALYZE</text>
+  <text x="40" y="262" class="muted" font-size="11">[03] INVESTIGATE</text>
+  <text x="40" y="282" class="muted" font-size="11">[04] VALIDATE</text>
+  <text x="40" y="316" class="cyan" font-size="11">$ <tspan class="purple">ready</tspan></text>
+  <rect x="91" y="304" width="6" height="15" fill="#4deaff" class="cursor"/>
+
+  <!-- Scanning line -->
+  <rect x="29" y="102" width="318" height="2" fill="#4deaff" opacity=".6" class="scan"/>
+
+  <!-- Right system information panel -->
   <rect x="374" y="58" width="608" height="282" rx="8" fill="#0c1528" stroke="#273957"/>
   <text x="392" y="82" class="cyan" font-size="14" font-weight="bold">SYSTEM.INFO</text>
   <circle cx="904" cy="77" r="5" fill="#c4a1ff" class="pulse"/>
@@ -52,17 +66,23 @@
   <g font-size="13">
     <text x="394" y="121" class="muted">Subject</text>
     <text x="954" y="121" text-anchor="end" fill="#eee7ff">Aditi RK</text>
+
     <text x="394" y="151" class="muted">Focus</text>
     <text x="954" y="151" text-anchor="end" fill="#eee7ff">Digital Forensics · GRC · Purple Team</text>
+
     <text x="394" y="181" class="muted">Toolchain</text>
     <text x="954" y="181" text-anchor="end" fill="#eee7ff">Kali · Autopsy · FTK Imager</text>
+
     <text x="394" y="211" class="muted">Core.Lang</text>
     <text x="954" y="211" text-anchor="end" fill="#eee7ff">Python · C · C++</text>
+
     <text x="394" y="241" class="muted">Frameworks</text>
     <text x="954" y="241" text-anchor="end" fill="#eee7ff">NIST CSF 2.0 · CIS Controls v8.1</text>
+
     <text x="394" y="271" class="muted">Status</text>
     <text x="954" y="271" text-anchor="end" class="cyan">BUILDING + LEARNING + VALIDATING</text>
   </g>
+
   <path d="M392 294 H964" class="line"/>
   <circle cx="402" cy="316" r="5" fill="#39e89a" class="pulse"/>
   <text x="416" y="320" fill="#39e89a" font-size="12">ALL SYSTEMS NOMINAL</text>
