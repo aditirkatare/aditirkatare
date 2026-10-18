@@ -68,11 +68,20 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
   <img src="assets/animated-terminal.svg" width="100%" alt="Animated cybersecurity terminal" />
 </p>
 
-<h2 align="center">⌁ Cyberlab Console</h2>
+
+<h2 align="center">⌁ CYBERLAB // LIVE SESSION</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&height=110&lines=%24+whoami+%E2%86%92+Aditi+RK;%24+mode+--forensics+%E2%86%92+Artifact+triage;%24+mode+--grc+%E2%86%92+Risk+analysis;%24+mode+--research+%E2%86%92+Test+%26+validate;%24+git+status+%E2%86%92+Building+in+progress"
+    alt="Rotating cybersecurity terminal commands"
+  />
+</p>
 
 <p align="center">
   <img src="assets/cyberlab-console.svg" width="100%" alt="Cyberlab operator console" />
 </p>
+
 
 
 <h2 align="center">⌁ GitHub Telemetry</h2>
