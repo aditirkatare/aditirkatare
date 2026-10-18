@@ -83,6 +83,36 @@ Cybersecurity and business risk analysis with control mapping and risk treatment
 </p>
 
 
+<h2 align="center">⌁ PROJECT REGISTRY</h2>
+<p align="center"><code>CLASSIFIED: PUBLIC REPOSITORIES // 03 PROJECTS</code></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Asteroid Hazard Classifier</h3>
+      <p>Machine learning experiments on near-Earth asteroid hazard classification, including model evaluation and leakage checks.</p>
+      <p><strong>STACK</strong><br/>Python · Pandas · Scikit-learn</p>
+      <a href="https://github.com/aditirkatare/asteroid-hazard-classifier">[ ACCESS REPOSITORY ]</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Cyberdyne GRC Policy Pack</h3>
+      <p>A fictional SaaS security policy pack aligned with recognised cybersecurity and governance frameworks.</p>
+      <p><strong>FOCUS</strong><br/>GRC · NIST CSF · CIS Controls</p>
+      <a href="https://github.com/aditirkatare/cyberdyne-systems-grc-policy-pack">[ ACCESS REPOSITORY ]</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>03 / Cyberdyne Risk Register</h3>
+      <p>A structured cybersecurity and business risk assessment with risk scoring, controls, ownership, treatment plans, and framework mapping.</p>
+      <p><strong>FOCUS</strong><br/>Risk Analysis · Residual Risk · SOC 2 Mapping</p>
+      <a href="https://github.com/aditirkatare/cyberdyne-systems-risk-register">[ ACCESS REPOSITORY ]</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><code>END OF REGISTRY // EVIDENCE OVER ASSUMPTIONS</code></p>
+
 
 <h2 align="center">⌁ GitHub Telemetry</h2>
 
