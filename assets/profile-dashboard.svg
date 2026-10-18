@@ -37,7 +37,14 @@
     <path d="M30 120 H346 M30 150 H346 M30 180 H346 M30 210 H346 M30 240 H346 M30 270 H346 M30 300 H346"/>
     <path d="M60 100 V325 M90 100 V325 M120 100 V325 M150 100 V325 M180 100 V325 M210 100 V325 M240 100 V325 M270 100 V325 M300 100 V325 M330 100 V325"/>
   </g>
-  <text x="188" y="160" text-anchor="middle" class="purple" font-size="20">[ A.RK ]</text>
+<image
+  href="aditi-dotted-portrait.png"
+  x="35"
+  y="105"
+  width="306"
+  height="220"
+  preserveAspectRatio="xMidYMid slice"
+/>
   <text x="188" y="191" text-anchor="middle" class="cyan" font-size="12">CYBERLAB.OPERATOR</text>
   <text x="188" y="218" text-anchor="middle" class="muted" font-size="11">SCAN // ANALYZE</text>
   <text x="188" y="238" text-anchor="middle" class="muted" font-size="11">INVESTIGATE // VALIDATE</text>
