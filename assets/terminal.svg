@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#100d1c"/>
+      <stop offset="100%" stop-color="#17112b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="278" rx="17" fill="none" stroke="#6d4caa"/>
+  <circle cx="28" cy="26" r="6" fill="#ff5f57"/>
+  <circle cx="49" cy="26" r="6" fill="#febc2e"/>
+  <circle cx="70" cy="26" r="6" fill="#28c840"/>
+  <text x="500" y="32" fill="#a1a1aa" font-family="monospace" font-size="13" text-anchor="middle">aditi@cyberlab: ~</text>
+  <path d="M24 48 H976" stroke="#382b50"/>
+  <text x="42" y="100" fill="#c4b5fd" font-family="monospace" font-size="27" font-weight="bold">ADITI RK <tspan fill="#a78bfa">// CYBERSECURITY</tspan></text>
+  <text x="42" y="142" fill="#e9d5ff" font-family="monospace" font-size="20">Digital Forensics  |  GRC  |  Security Research</text>
+  <text x="42" y="190" fill="#a78bfa" font-family="monospace" font-size="16">aditi@cyberlab:~$ <tspan fill="#f4f4f5">whoami</tspan></text>
+  <text x="42" y="219" fill="#d4d4d8" font-family="monospace" font-size="16">Engineer in progress. Evidence over assumptions.</text>
+  <text x="42" y="255" fill="#8b7aa8" font-family="monospace" font-size="12">BUILD  /  TEST  /  INVESTIGATE  /  DOCUMENT</text>
+  <rect x="475" y="243" width="9" height="15" fill="#a78bfa"/>
+</svg>
