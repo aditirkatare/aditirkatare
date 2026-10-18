@@ -12,7 +12,9 @@
        alt="Aditi RK's animated cybersecurity profile dashboard"
        width="100%" />
 </p>
-
+<p align="center">
+  <img src="assets/profile-dashboard.svg" alt="Aditi's animated cyberlab dashboard" width="100%" />
+</p>
 <p align="center">
   <img src="assets/terminal.svg" alt="Aditi's cybersecurity terminal banner" width="100%" />
 </p>
